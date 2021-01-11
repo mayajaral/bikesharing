@@ -27,5 +27,7 @@ Men and women seem to bike at the same hours of the day.
 One time customers are more frequent on the weekends. Subscription based customers are very active outside of work hours, during weekday mornings and evenings, and on weekends. 
 
 ## Summary
+We see that there is a clear demographic of male subscribers who regularly use the service, potentially even as a mode of commuting given the hours. This shows a clear target market potential even outside of tourist hubs.
 
+The distinction between subscribes and one time customers makes clear the importance regular customers, as seen in the unique trip duration and start time analysis performed on the basis of customer type. 
 
